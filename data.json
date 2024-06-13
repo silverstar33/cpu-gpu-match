@@ -1,0 +1,286 @@
+{
+    "CPUs": [
+        "Intel Core i9-14900K",
+        "Intel Core i7-14700K",
+        "Intel Core i5-14600K",
+        "Intel Core i9-13900K",
+        "Intel Core i7-13700K",
+        "Intel Core i5-13600K",
+        "Intel Core i9-12900K",
+        "Intel Core i7-12700K",
+        "Intel Core i5-12600K",
+        "Intel Core i9-11900K",
+        "Intel Core i7-11700K",
+        "Intel Core i5-11600K",
+        "Intel Core i9-10900K",
+        "Intel Core i7-10700K",
+        "Intel Core i5-10600K",
+        "Intel Core i9-9900K",
+        "Intel Core i7-9700K",
+        "Intel Core i5-9600K",
+        "Intel Core i3-9100F",
+        "Intel Core i7-8700K",
+        "AMD Ryzen 9 7950X",
+        "AMD Ryzen 9 7900X",
+        "AMD Ryzen 7 7800X3D",
+        "AMD Ryzen 7 7700X",
+        "AMD Ryzen 5 7600X",
+        "AMD Ryzen 9 5950X",
+        "AMD Ryzen 9 5900X",
+        "AMD Ryzen 7 5800X",
+        "AMD Ryzen 5 5600X",
+        "AMD Ryzen 7 5700G",
+        "AMD Ryzen 5 5600G",
+        "AMD Ryzen 9 3950X",
+        "AMD Ryzen 9 3900X",
+        "AMD Ryzen 7 3800X",
+        "AMD Ryzen 7 3700X",
+        "AMD Ryzen 5 3600X",
+        "AMD Ryzen 5 3600",
+        "AMD Ryzen 5 3400G",
+        "AMD Ryzen 3 3300X",
+        "AMD Ryzen 3 3200G"
+    ],
+    "Compatibility": {
+        "Intel Core i9-14900K": [
+            "NVIDIA GeForce RTX 4090",
+            "NVIDIA GeForce RTX 4080",
+            "AMD Radeon RX 7900 XTX",
+            "AMD Radeon RX 7900 XT"
+        ],
+        "Intel Core i7-14700K": [
+            "NVIDIA GeForce RTX 4080",
+            "NVIDIA GeForce RTX 4070",
+            "AMD Radeon RX 7900 XT",
+            "AMD Radeon RX 7800 XT"
+        ],
+        "Intel Core i5-14600K": [
+            "NVIDIA GeForce RTX 4070",
+            "NVIDIA GeForce RTX 4060 Ti",
+            "AMD Radeon RX 7800 XT",
+            "AMD Radeon RX 7700 XT"
+        ],
+        "Intel Core i9-13900K": [
+            "NVIDIA GeForce RTX 4090",
+            "NVIDIA GeForce RTX 4080",
+            "AMD Radeon RX 7900 XTX",
+            "AMD Radeon RX 7900 XT"
+        ],
+        "Intel Core i7-13700K": [
+            "NVIDIA GeForce RTX 4080",
+            "NVIDIA GeForce RTX 4070",
+            "AMD Radeon RX 7900 XT",
+            "AMD Radeon RX 7800 XT"
+        ],
+        "Intel Core i5-13600K": [
+            "NVIDIA GeForce RTX 4070",
+            "NVIDIA GeForce RTX 4060 Ti",
+            "AMD Radeon RX 7800 XT",
+            "AMD Radeon RX 7700 XT"
+        ],
+        "Intel Core i9-12900K": [
+            "NVIDIA GeForce RTX 4090",
+            "NVIDIA GeForce RTX 4080",
+            "AMD Radeon RX 7900 XTX",
+            "AMD Radeon RX 7900 XT"
+        ],
+        "Intel Core i7-12700K": [
+            "NVIDIA GeForce RTX 4080",
+            "NVIDIA GeForce RTX 4070",
+            "AMD Radeon RX 7900 XT",
+            "AMD Radeon RX 7800 XT"
+        ],
+        "Intel Core i5-12600K": [
+            "NVIDIA GeForce RTX 4070",
+            "NVIDIA GeForce RTX 4060 Ti",
+            "AMD Radeon RX 7800 XT",
+            "AMD Radeon RX 7700 XT"
+        ],
+        "Intel Core i9-11900K": [
+            "NVIDIA GeForce RTX 3090",
+            "NVIDIA GeForce RTX 3080",
+            "AMD Radeon RX 6900 XT",
+            "AMD Radeon RX 6800 XT"
+        ],
+        "Intel Core i7-11700K": [
+            "NVIDIA GeForce RTX 3080",
+            "NVIDIA GeForce RTX 3070",
+            "AMD Radeon RX 6800 XT",
+            "AMD Radeon RX 6700 XT"
+        ],
+        "Intel Core i5-11600K": [
+            "NVIDIA GeForce RTX 3070",
+            "NVIDIA GeForce RTX 3060 Ti",
+            "AMD Radeon RX 6700 XT",
+            "AMD Radeon RX 6600 XT"
+        ],
+        "Intel Core i9-10900K": [
+            "NVIDIA GeForce RTX 3080",
+            "NVIDIA GeForce RTX 3070",
+            "AMD Radeon RX 6800 XT",
+            "AMD Radeon RX 6700 XT"
+        ],
+        "Intel Core i7-10700K": [
+            "NVIDIA GeForce RTX 3070",
+            "NVIDIA GeForce RTX 3060 Ti",
+            "AMD Radeon RX 6700 XT",
+            "AMD Radeon RX 6600 XT"
+        ],
+        "Intel Core i5-10600K": [
+            "NVIDIA GeForce RTX 3060",
+            "NVIDIA GeForce GTX 1660 Super",
+            "AMD Radeon RX 6600",
+            "AMD Radeon RX 6500 XT"
+        ],
+        "Intel Core i9-9900K": [
+            "NVIDIA GeForce RTX 2080 Ti",
+            "NVIDIA GeForce RTX 2080 Super",
+            "AMD Radeon RX 5700 XT",
+            "AMD Radeon RX 5700"
+        ],
+        "Intel Core i7-9700K": [
+            "NVIDIA GeForce RTX 2070 Super",
+            "NVIDIA GeForce RTX 2070",
+            "AMD Radeon RX 5700 XT",
+            "AMD Radeon RX 5600 XT"
+        ],
+        "Intel Core i5-9600K": [
+            "NVIDIA GeForce GTX 1660 Ti",
+            "NVIDIA GeForce GTX 1660 Super",
+            "AMD Radeon RX 590",
+            "AMD Radeon RX 580"
+        ],
+        "Intel Core i3-9100F": [
+            "NVIDIA GeForce GTX 1650",
+            "NVIDIA GeForce GTX 1050 Ti",
+            "AMD Radeon RX 560",
+            "AMD Radeon RX 550"
+        ],
+        "Intel Core i7-8700K": [
+            "NVIDIA GeForce RTX 2070",
+            "NVIDIA GeForce GTX 1080 Ti",
+            "AMD Radeon RX Vega 64",
+            "AMD Radeon RX 590"
+        ],
+        "AMD Ryzen 9 7950X": [
+            "NVIDIA GeForce RTX 4090",
+            "NVIDIA GeForce RTX 4080",
+            "AMD Radeon RX 7900 XTX",
+            "AMD Radeon RX 7900 XT"
+        ],
+        "AMD Ryzen 9 7900X": [
+            "NVIDIA GeForce RTX 4080",
+            "NVIDIA GeForce RTX 4070",
+            "AMD Radeon RX 7900 XT",
+            "AMD Radeon RX 7800 XT"
+        ],
+        "AMD Ryzen 7 7800X3D": [
+            "NVIDIA GeForce RTX 4090",
+            "NVIDIA GeForce RTX 4080",
+            "AMD Radeon RX 7900 XTX",
+            "AMD Radeon RX 7900 XT"
+        ],
+        "AMD Ryzen 7 7700X": [
+            "NVIDIA GeForce RTX 4070",
+            "NVIDIA GeForce RTX 4060 Ti",
+            "AMD Radeon RX 7800 XT",
+            "AMD Radeon RX 7700 XT"
+        ],
+        "AMD Ryzen 5 7600X": [
+            "NVIDIA GeForce RTX 4060 Ti",
+            "NVIDIA GeForce RTX 4060",
+            "AMD Radeon RX 7700 XT",
+            "AMD Radeon RX 7600"
+        ],
+        "AMD Ryzen 9 5950X": [
+            "NVIDIA GeForce RTX 3090",
+            "NVIDIA GeForce RTX 3080",
+            "AMD Radeon RX 6900 XT",
+            "AMD Radeon RX 6800 XT"
+        ],
+        "AMD Ryzen 9 5900X": [
+            "NVIDIA GeForce RTX 3080",
+            "NVIDIA GeForce RTX 3070",
+            "AMD Radeon RX 6900 XT",
+            "AMD Radeon RX 6800 XT"
+        ],
+        "AMD Ryzen 7 5800X": [
+            "NVIDIA GeForce RTX 3080",
+            "NVIDIA GeForce RTX 3070",
+            "AMD Radeon RX 6800 XT",
+            "AMD Radeon RX 6700 XT"
+        ],
+        "AMD Ryzen 5 5600X": [
+            "NVIDIA GeForce RTX 3060 Ti",
+            "NVIDIA GeForce RTX 3060",
+            "AMD Radeon RX 6700 XT",
+            "AMD Radeon RX 6600 XT"
+        ],
+        "AMD Ryzen 7 5700G": [
+            "NVIDIA GeForce RTX 3060",
+            "NVIDIA GeForce GTX 1660 Ti",
+            "AMD Radeon RX 6700 XT",
+            "AMD Radeon RX 6600 XT"
+        ],
+        "AMD Ryzen 5 5600G": [
+            "NVIDIA GeForce RTX 3060",
+            "NVIDIA GeForce GTX 1660 Super",
+            "AMD Radeon RX 6600",
+            "AMD Radeon RX 6500 XT"
+        ],
+        "AMD Ryzen 9 3950X": [
+            "NVIDIA GeForce RTX 3090",
+            "NVIDIA GeForce RTX 3080",
+            "AMD Radeon RX 6900 XT",
+            "AMD Radeon RX 6800 XT"
+        ],
+        "AMD Ryzen 9 3900X": [
+            "NVIDIA GeForce RTX 3080",
+            "NVIDIA GeForce RTX 3070",
+            "AMD Radeon RX 6900 XT",
+            "AMD Radeon RX 6800 XT"
+        ],
+        "AMD Ryzen 7 3800X": [
+            "NVIDIA GeForce RTX 3070",
+            "NVIDIA GeForce RTX 3060 Ti",
+            "AMD Radeon RX 6700 XT",
+            "AMD Radeon RX 6600 XT"
+        ],
+        "AMD Ryzen 7 3700X": [
+            "NVIDIA GeForce RTX 3060 Ti",
+            "NVIDIA GeForce RTX 3060",
+            "AMD Radeon RX 6700 XT",
+            "AMD Radeon RX 6600 XT"
+        ],
+        "AMD Ryzen 5 3600X": [
+            "NVIDIA GeForce RTX 3060",
+            "NVIDIA GeForce GTX 1660 Super",
+            "AMD Radeon RX 6600",
+            "AMD Radeon RX 6500 XT"
+        ],
+        "AMD Ryzen 5 3600": [
+            "NVIDIA GeForce GTX 1660 Ti",
+            "NVIDIA GeForce GTX 1660 Super",
+            "AMD Radeon RX 590",
+            "AMD Radeon RX 580"
+        ],
+        "AMD Ryzen 5 3400G": [
+            "NVIDIA GeForce GTX 1650",
+            "NVIDIA GeForce GTX 1050 Ti",
+            "AMD Radeon RX 560",
+            "AMD Radeon RX 550"
+        ],
+        "AMD Ryzen 3 3300X": [
+            "NVIDIA GeForce GTX 1650",
+            "NVIDIA GeForce GTX 1050 Ti",
+            "AMD Radeon RX 560",
+            "AMD Radeon RX 550"
+        ],
+        "AMD Ryzen 3 3200G": [
+            "NVIDIA GeForce GTX 1050",
+            "NVIDIA GeForce GTX 950",
+            "AMD Radeon RX 560",
+            "AMD Radeon RX 550"
+        ]
+    }
+}
